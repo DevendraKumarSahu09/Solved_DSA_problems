@@ -10,43 +10,19 @@ public:
         }
 
         dp[n] = solve(n-1, dp) + solve(n-2, dp);
-
         return dp[n];
     }
 
     int climbStairs(int n) {
 
         vector<int>dp(n+1, -1);
-
-        return solve(n, dp);
-        
+        return solve(n, dp); 
     }
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// RECURSION
+// Maza aa gya :)
 
 // class Solution {
 // public:
@@ -64,10 +40,7 @@ public:
 
 //         return first + second;
 //     }
-
 //     int climbStairs(int n) {
-
-//         return solve(n);
-        
+//         return solve(n);      
 //     }
 // };
