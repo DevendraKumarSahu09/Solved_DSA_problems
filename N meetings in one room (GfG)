@@ -9,6 +9,7 @@ This would be inefficient, because the cmp function would always return the same
 regardless of the instance of the Solution class that is calling it. */
 
 class Solution
+
 {
     public:
     
