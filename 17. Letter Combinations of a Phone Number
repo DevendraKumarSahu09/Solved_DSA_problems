@@ -6,6 +6,7 @@ private:
             return;
         }
 
+
         int number = digits[index] - '0';
         string value = mapping[number];
 
