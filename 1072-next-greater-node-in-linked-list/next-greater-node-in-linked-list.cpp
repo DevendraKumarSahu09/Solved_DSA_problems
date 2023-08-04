@@ -16,7 +16,6 @@ public:
             ll.push_back(head->val);
             head=head->next;
         }
-
         stack<int>st;
         vector<int>ans(ll.size());
 
