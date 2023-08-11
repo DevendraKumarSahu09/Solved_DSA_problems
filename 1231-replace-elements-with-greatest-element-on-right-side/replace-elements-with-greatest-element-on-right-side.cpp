@@ -8,7 +8,6 @@ public:
             int temp=arr[i];
             arr[i]=maximum;
             maximum=max(maximum,temp);
-
         }
         return arr;
     }
