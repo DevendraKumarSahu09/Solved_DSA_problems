@@ -11,6 +11,7 @@
 	<li><code>Fahrenheit = Celsius * 1.80 + 32.00</code></li>
 </ul>
 
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
