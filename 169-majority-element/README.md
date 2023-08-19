@@ -5,6 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [3,2,3]
+	
 <strong>Output:</strong> 3
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [2,2,1,1,1,2,2]
